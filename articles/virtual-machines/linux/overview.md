@@ -125,4 +125,4 @@ The VM is now running on Azure and you are ready to log in.  Using passwords to 
 ## Next steps
 You now have an overview of Linux on Azure.  The next step is to dive in and create a few VMs!
 
-* [Explore the growing list of sample scripts for common tasks via AzureCLI](cli-samples.md)
+* [Explore the growing list of sample scripts for common tasks via AzureCLI](cli-samples.md)b mn
